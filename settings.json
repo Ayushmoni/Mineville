@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "Mineville",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Mineville",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "Minevillegg.aternos.me",
+    "port": 16719,
     "version": "",
     "try-creative": false
   },
@@ -20,20 +20,17 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "qwerty9876"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
